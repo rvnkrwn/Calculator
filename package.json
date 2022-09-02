@@ -2,6 +2,7 @@
   "name": "calculator",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://rvnkrwn.github.io/Calculator",
   "dependencies": {
     "@chakra-ui/react": "^2.3.1",
     "@emotion/react": "^11.10.4",
@@ -36,5 +37,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
